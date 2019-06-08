@@ -2,6 +2,10 @@ slakfdjlaskf
 asldfjaslfk
 jlasdfjlkasf
 jlkajsdflkja
+<<<<<<< Updated upstream
 askfjalskf
 jlasdflaksf
 lasfdkl
+=======
+second process.
+>>>>>>> Stashed changes
